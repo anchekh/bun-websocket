@@ -1,3 +1,6 @@
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f1e478d2-74b0-44dc-9be3-93f6a5f29368" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/53e6072f-3381-4a35-a565-1a7fbb1768a1" />
+
 # my-app
 
 To install dependencies:
